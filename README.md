@@ -23,7 +23,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Ubuntu-LENOVO_Thinkpad_T440-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-LENOVO_Ideapad_L340-064A89?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 <p align='center'>
