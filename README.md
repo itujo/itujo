@@ -17,19 +17,27 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=itujo&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Ubuntu-LENOVO_Ideapad_L340-064A89?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:ronaldo@gruposplog.com.br'>ronaldo@gruposplog.com.br</a>
-</p>
-
+<div align="center">
+  <a href="https://github.com/itujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itujo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br><br>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Ronaldo-NestJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Ronaldo-NodeJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ronaldo-PostgreSQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ronaldo-MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ronaldo-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
+  <Br><br><img align="center" alt="Ronaldo-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ronaldo-Ts" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ronaldo-Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
+  <img align="center" alt="Ronaldo-GraphQL" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Ronaldo-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+</div>
+  <br><br>
+   <br />
+   
 <details>
   <summary>📃 My Resume</summary>
 
@@ -39,10 +47,25 @@
   📆 2021 - 2023\
   📍 **University of Americas** - São Paulo, Brazil
 
+- 📖 **Analysis and Systems Development**\
+  📆 2019 - 2021\
+  📍 **Federal Institute of Education Science and Technology (IFAM)** - Manaus, Brazil
+
 ## Experience
 
 - 👨‍💻 **Systems Analyst and Fullstack Developer**\
-  📆 2021 - Moment\
+  📆 2022 - Moment\
+  📍 **Anjun Brasil** - Perus/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<br/>
+
+- 👨‍💻 **Systems Analyst and Fullstack Developer**\
+  📆 2021 - 2022\
   📍 **SPLog Brasil** - Carapicuíba/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
