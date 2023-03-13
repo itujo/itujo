@@ -29,15 +29,13 @@
   <img align="center" alt="Ronaldo-PostgreSQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Ronaldo-MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ronaldo-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-  <Br><br><img align="center" alt="Ronaldo-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ronaldo-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ronaldo-Ts" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ronaldo-Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
   <img align="center" alt="Ronaldo-GraphQL" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Ronaldo-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
-  <br><br>
-   <br />
-   
+<br/>
 <details>
   <summary>📃 My Resume</summary>
 
