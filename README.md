@@ -51,8 +51,22 @@
 
 ## Experience
 
+- 👨‍💻 **Fullstack Developer**\
+  📆 08/2023 - Moment\
+  📍 **Idea Maker** - Sao Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<br/>
+
 - 👨‍💻 **Systems Analyst and Fullstack Developer**\
-  📆 2022 - Moment\
+  📆 04/2022 - 08/2023\
   📍 **Anjun Brasil** - Perus/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -63,7 +77,7 @@
 <br/>
 
 - 👨‍💻 **Systems Analyst and Fullstack Developer**\
-  📆 2021 - 2022\
+  📆 04/2021 - 04/2022\
   📍 **SPLog Brasil** - Carapicuíba/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -75,7 +89,7 @@
 <br/>
 
 - 👨‍💻 **Tech Support**\
-  📆 2020 - 2021\
+  📆 03/2020 - 03/2021\
   📍 **SPLog Brasil** - Carapicuíba/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
